@@ -54,10 +54,10 @@ class Helloworldgnome4pythonApplication(Adw.Application):
         """Callback for the app.about action."""
         about = Adw.AboutDialog(application_name='helloworldgnome4python',
                                 application_icon='de.cmg.HelloWorldGnome4Python',
-                                developer_name='Anonym',
+                                developer_name='tct123',
                                 version='0.1.0',
-                                developers=['Anonym'],
-                                copyright='© 2025 Anonym')
+                                developers=['tct123'],
+                                copyright='© 2025 tct123')
         # Translators: Replace "translator-credits" with your name/username, and optionally an email or URL.
         about.set_translator_credits(_('translator-credits'))
         about.present(self.props.active_window)
