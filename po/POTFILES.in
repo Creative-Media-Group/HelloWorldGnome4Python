@@ -1,0 +1,8 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/de.cmg.HelloWorldGnome4Python.desktop.in
+data/de.cmg.HelloWorldGnome4Python.metainfo.xml.in
+data/de.cmg.HelloWorldGnome4Python.gschema.xml
+src/main.py
+src/window.py
+src/window.ui

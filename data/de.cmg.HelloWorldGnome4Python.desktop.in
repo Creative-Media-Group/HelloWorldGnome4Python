@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=helloworldgnome4python
+Exec=helloworldgnome4python
+Icon=de.cmg.HelloWorldGnome4Python
+Terminal=false
+Type=Application
+Categories=Utility;
+Keywords=GTK;
+StartupNotify=true
+DBusActivatable=true

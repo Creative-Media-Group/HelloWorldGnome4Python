@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="helloworldgnome4python">
+	<schema id="de.cmg.HelloWorldGnome4Python" path="/de/cmg/HelloWorldGnome4Python/">
+	</schema>
+</schemalist>
